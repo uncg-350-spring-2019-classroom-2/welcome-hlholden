@@ -1,2 +1,2 @@
-Hello! I'm learning! :D!
+Hello! :D
 ![OctoHeather](octocat.png)
